@@ -15,5 +15,5 @@
 ## 📂 Repositories
 
 <p align="center">
-  <a href="https://github.com/7oSkaaa?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/AhmadVel?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
