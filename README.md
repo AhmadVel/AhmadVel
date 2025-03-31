@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Ahmad Roshan Velasquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnYxMXp3MnJncGdzZnFlY3h3ODN3NDR5c2R1YWRudGh5YjRoNXRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/060oqXZ1jYTj0szFaQ/giphy.gif" width = 50px></picture> About me
+## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnYxMXp3MnJncGdzZnFlY3h3ODN3NDR5c2R1YWRudGh5YjRoNXRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/060oqXZ1jYTj0szFaQ/giphy.gif" width = 100px></picture> About me
 
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYwZ2dodHYwem83OWg4Y3hlbmt0aW9sdDgwdnZmeWdwcTJ5YjJydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk2bXVwaGxrNWFyMDNzdWM3OTRqMm0zdDgwZDdhZWkweXV6ZTQ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width = 250px></picture>
 
 <br><br>
 
