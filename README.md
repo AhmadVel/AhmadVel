@@ -6,7 +6,7 @@
 
 <br><br>
 
-- ✋:  I'm Software Engineering student at Universidad Nacional Mayor de San Marcos
+- ✋:  I'm a Software Engineering student at Universidad Nacional Mayor de San Marcos. 
 - 💻:  I'm interested in Cybersecurity and Information Security overall.
 - 💡: I'm learning through many courses on Cisco and Palo Alto technologies.
 - 🔍: Seeking opportunities to put my knowledge into practice.
