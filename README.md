@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://iconscout.com/lottie-animation/hacker-9063209_7374990" width = 250px></picture>
+<picture> <img align="right" src="https://giphy.com/gifs/MMs-ME-HCevnBRJE6Z6n2VqlG" width = 250px></picture>
 
 <br><br>
 
